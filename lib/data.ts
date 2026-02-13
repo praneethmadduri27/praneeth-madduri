@@ -37,7 +37,7 @@ export const projects: Project[] = [
         year: "Federal Bank",
         desc: "Data-driven decision reporting and dashboards.",
         details: "I have maintained periodic MIS reports using advanced Excel to monitor loan utilization and portfolio performance for over 50 HNI cliets. My data-driven approach improved reporting accuracy by 40%, providing senior management with actionable insights for risk mitigation. I bridged the gap between raw core banking data and business intelligence by performing fund reconciliations and break analyses to ensure zero discrepancies.",
-        tags: ["MIS", "SQL", "Excel", "Business Intelligence"],
+        tags: ["MIS", "SQL", "Excel", "Data-Driven Insights"],
         image: "/images/mis-automation.jpg"
     },
     {

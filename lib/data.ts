@@ -46,7 +46,7 @@ export const projects: Project[] = [
         role: "InfoSec",
         year: "Federal Bank",
         desc: "Internal system validation and digital control testing.",
-        details: "Designed and implemented a digital control testing framework to enhance audit readiness. Conducted internal system validations to identify vulnerabilities in branch banking software. Collaborated with the InfoSec team to deploy automated control tests, ensuring the integrity of financial transactions and customer data protection.",
+        details: "As an Assistant Manager at Federal Bank with an MCA in Information Security, I specialize in Digital Audit and GRC, focusing on system logic validation and automated control testing. I have spearheaded branch-level audits and User Access Management (UAM) to ensure 100% regulatory compliance and secure digital banking integrations. By engineering high-accuracy MIS reports and managing fund reconciliations, I bridge the gap between core banking operations and technical system integrity",
         tags: ["Internal Audit", "Control Frameworks", "InfoSec", "System Validation"],
         image: "/images/digital-audit.webp"
     },
